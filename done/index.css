@@ -8,3 +8,12 @@ body{
 .app h1{
     text-align: center;
 }
+.balance-container #balance{
+    font-size: center;
+}
+h2{
+    text-transform: uppercase;
+}
+.cashflow-container{
+    display: flex;
+}
