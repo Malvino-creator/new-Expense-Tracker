@@ -30,8 +30,13 @@ h2{
     align-items: center;
     justify-content: center;
     padding-bottom: 20px;
+    margin-top: 20px;
 }
 .income-container{
     border-right:1px solid #cccc;
-    
+    padding-right: 20px;
+
+}
+.income-container{
+    padding-left: 20px;
 }
